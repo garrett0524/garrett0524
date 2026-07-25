@@ -2,7 +2,7 @@
 
 I sell for a living, and I build the systems behind the sale.
 
-CS grad who ended up in sales and turned out to be good at it — **$2.7M closed in 16 months on straight commission.** Off the clock I build the infrastructure most salespeople only pretend to understand.
+CS grad who ended up in sales and turned out to be pretty good at it: **$2.7M closed in 16 months on straight commission.** Off the clock I build the infrastructure most salespeople only pretend to understand.
 
 **What I build**
 - Real-time Solana data pipelines: Helius WebSocket ingestion, Postgres, Telegram alerting
