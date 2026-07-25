@@ -1,16 +1,14 @@
-## Hi there 👋
+## Garrett Davis
 
-<!--
-**garrett0524/garrett0524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I sell for a living, and I build the systems behind the sale.
 
-Here are some ideas to get you started:
+CS grad who ended up in sales and turned out to be good at it — **$2.7M closed in 16 months on straight commission.** Off the clock I build the infrastructure most salespeople only pretend to understand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build**
+- Real-time Solana data pipelines: Helius WebSocket ingestion, Postgres, Telegram alerting
+- Live wireless / DePIN hardware deployments (Tessera)
+- Sales tooling — CRMs with API integrations and automated outbound
+
+**Stack:** TypeScript · Node · Python · Postgres/Supabase · Solana · React Native
+
+ [garrettpdavis.com](https://garrettpdavis.com)
