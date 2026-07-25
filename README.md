@@ -7,7 +7,7 @@ CS grad who ended up in sales and turned out to be pretty good at it: **$2.7M cl
 **What I build**
 - Real-time Solana data pipelines: Helius WebSocket ingestion, Postgres, Telegram alerting
 - Live wireless / DePIN hardware deployments (Tessera)
-- Sales tooling — CRMs with API integrations and automated outbound
+- Sales tooling: CRMs with API integrations and automated outbound
 
 **Stack:** TypeScript · Node · Python · Postgres/Supabase · Solana · React Native
 
